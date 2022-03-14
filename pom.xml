@@ -69,6 +69,7 @@
 					<compilerPlugins>
 						<plugin>spring</plugin>
 						<plugin>jpa</plugin>
+						<plugin>no-arg</plugin>
 					</compilerPlugins>
 				</configuration>
 				<dependencies>
